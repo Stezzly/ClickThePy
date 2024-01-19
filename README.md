@@ -35,4 +35,4 @@ Contributions are welcome! If you'd like to contribute to ClickThePy, feel free 
 
 ## License
 
-This project is licensed under the MIT License.
+There is currently no license for this project. It is completely open source and free to use!
